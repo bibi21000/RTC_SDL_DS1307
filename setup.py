@@ -5,7 +5,7 @@ from setuptools import setup, find_packages, Extension
 
 # Call setuptools setup function to install package.
 setup(name              = 'RTC_SDL_DS1307',
-      version           = '1.0.0',
+      version           = '1.1.0',
       author            = 'bibi21000',
       author_email      = 'bibi21000@gmail.com',
       description       = 'Raspberry Pi Python Library for DS1307 RTC',
