@@ -13,7 +13,7 @@ setup(name              = 'RTC_SDL_DS1307',
       url               = 'https://github.com/bibi21000/RTC_SDL_DS1307',
       packages          = find_packages(),
       dependency_links  = [
-                'https://github.com/adafruit/Adafruit_Python_GPIO/tarball/master#egg=Adafruit-GPIO-0.6.5',
+                'https://github.com/adafruit/Adafruit_Python_GPIO/tarball/master#egg=Adafruit-GPIO',
                 'https://github.com/dafyddcrosby/python-bcd/tarball/master#egg=bcd',
       ],
       install_requires  = ['Adafruit-GPIO>=0.6.5','bcd'],

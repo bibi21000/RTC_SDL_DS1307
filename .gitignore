@@ -7,3 +7,5 @@
 *.test
 *nohup.out
 RTC_SDL_DS1307.egg-info/
+build/
+dist/
